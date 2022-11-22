@@ -21,9 +21,20 @@
         "link": "https://www.are.na/kenneth-larsen/to-read-tqk7vh7dev0"
       },
       "generator": "Are.na Channel to RSS",
-      "lastBuildDate": "Tue, 22 Nov 2022 13:31:17 GMT",
+      "lastBuildDate": "Tue, 22 Nov 2022 17:51:55 GMT",
       "language": "en",
       "item": [
+        {
+          "title": "ZEIT ONLINE | Lesen Sie zeit.de mit Werbung oder im PUR-Abo. Sie haben die Wahl.",
+          "description": "<a href=\"https://www.zeit.de/wirtschaft/2022-11/twitter-management-elon-musk-kapitalismus\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTEwNzM3MC9vcmlnaW5hbF82OWYzOTk1MDY4NDhkZjY1NWVjMDkyZjk2YzhkYjdmMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/19107370",
+          "guid": {
+            "+content": "https://www.are.na/block/19107370",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Tue, 22 Nov 2022 17:48:46 GMT"
+        },
         {
           "title": "Stephen Diehl: Crypto is the commoditisation of populist anger, gambling and crime",
           "description": "<a href=\"https://www.ft.com/content/028e0109-6e87-42ed-8480-996cf645ce04\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTA4MDI1OC9vcmlnaW5hbF9iMjYxMDc1NGU0NDgzMWM1OGEzM2QwZDcyMzc0N2M5Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
@@ -232,17 +243,6 @@
           },
           "creator": "Charles Broskoski",
           "pubDate": "Tue, 17 Apr 2018 17:02:45 GMT"
-        },
-        {
-          "title": "The Age of Algorithmic Anxiety | The New Yorker",
-          "description": "<a href=\"https://www.newyorker.com/culture/infinite-scroll/the-age-of-algorithmic-anxiety\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNzM3NDUzMi9vcmlnaW5hbF9kYjI2N2Y1ODc3YjA2NmE0N2FjNzE5ZjUyMmU3OWE4Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
-          "link": "https://www.are.na/block/17374532",
-          "guid": {
-            "+content": "https://www.are.na/block/17374532",
-            "+isPermaLink": "false"
-          },
-          "creator": "liyv ❦",
-          "pubDate": "Wed, 27 Jul 2022 15:46:58 GMT"
         }
       ]
     }
