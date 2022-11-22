@@ -2,7 +2,7 @@ function settime() {
   const timestamp = document.querySelector('[data-timestamp-text]')
   if (!timestamp || !('Intl' in window)) return
   const options = {
-    timeZone: "Asia/Taipei",
+    timeZone: "Europe/Copenhagen",
     timeStyle: "short",
     hour12: false
   }

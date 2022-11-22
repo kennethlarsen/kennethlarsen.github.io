@@ -1,6 +1,6 @@
-# muan.co
+# My website
 
-Code for https://muan.co/. Some of the content is updated via [a micropub server](https://github.com/muan/micropub-endpoint#micropub-endpoint).
+This is based on the wonderful website https://muan.co/. 
 
 ## Development
 
@@ -10,7 +10,7 @@ $ ./start
 
 ## License
 
-The following directories and their contents are Copyright Mu-An Chiou. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Kenneth Larsen. You may not reuse anything therein without my permission:
 
 ```
 _data/

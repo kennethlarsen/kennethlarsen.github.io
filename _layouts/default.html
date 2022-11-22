@@ -14,14 +14,11 @@
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
       <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" name="description">
       <meta content="article" property="og:type">
-      <meta content="@muanchiou" property="twitter:site">
+      <meta content="@kennethlarsen" property="twitter:site">
       <meta name="twitter:card" content="summary_large_image">
       {% if page.image %}
-        <meta content="https://muan.co/images/{{ page.image }}" property="og:image">
-        <meta content="https://muan.co/images/{{ page.image }}" property="twitter:image">
-      {% elsif page.image_text %}
-        <meta content="https://muan-text-image.herokuapp.com/title?v=2&text={{ page.image_text | strip | url_encode }}" property="og:image">
-        <meta content="https://muan-text-image.herokuapp.com/title?v=2&text={{ page.image_text | strip | url_encode }}" property="twitter:image">
+        <meta content="https://kennethlarsen.org/{{ page.image }}" property="og:image">
+        <meta content="https://kennethlarsen.org/{{ page.image }}" property="twitter:image">
       {% else %}
         <meta content="summary" name="twitter:card">
         <meta content="https://muan.co/assets/logo.png" name="twitter:image">
@@ -32,7 +29,7 @@
       <meta content="{{ page.title }}" name="twitter:title">
     {% else %}
       <meta content="summary" name="twitter:card">
-      <meta content="https://muan.co/assets/logo.png" property="twitter:image">
+      <meta content="https://kennethlarsen.org/assets/logo.png" property="twitter:image">
       <meta content="{{ site.title }}" name="twitter:title">
       <title>{{ site.title }}</title>
       <meta content="https://muan.co/assets/logo.png" property="og:image">
@@ -66,15 +63,6 @@
         <article>
           {{ content }}
 
-          {% if page.feature == 1 or page.open_heart %}
-            <hr class="hr">
-            <div class="monospace">
-              <div id="like-prompt">Like this post? let me know!</div>
-              &gt;<open-heart class="text-open-heart" href="https://likes.muan.dev/?id={{ page.url }}" emoji="❤️" aria-labelledby="like-prompt">
-                <span class="on">Liked.<br>(Thanks!)</span><span class="off">Sure. <kbd>⏎</kbd></span>
-              </open-heart>
-            </div>
-          {% endif %}
         </article>
         <!--div class="pagination">
           {% if page.previous %}

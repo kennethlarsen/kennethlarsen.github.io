@@ -5,9 +5,9 @@ permalink: /stories.json
 {%- assign one_day_ago = site.time | date: "%s" | minus: 86400 -%}
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Kenneth Larsen's stories",
-  "icon": "https://github.com/muan.png",
-  "home_page_url": "https://muan.co/stories.json",
+  "title": "@kennethlarsen's stories",
+  "icon": "https://github.com/kennethlarsen.png",
+  "home_page_url": "https://kennethlarsen.org/stories.json",
   "description": "Stories.",
   "items": [{% for story in stories limit: 10 %}{% assign story_time = story.uploaded | date: "%s" | plus: 0 %}{% if story_time < one_day_ago %}{% continue %}{% endif %}{% if stories.first != story %},{% endif %}
     {
@@ -22,10 +22,7 @@ permalink: /stories.json
         "url": "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/{{ story.id }}/public",
         "alt": "{{ story.meta.alt }}",
         "caption": "{{ story.meta.caption }}",
-        "date_expired": "{{ date_expired }}",
-        "reactions": {
-          "open_heart_urls": ["https://likes.muan.dev/?id={{ story.id }}"]
-        }
+        "date_expired": "{{ date_expired }}"
       }
     }{% endfor %}
   ]
