@@ -24,6 +24,7 @@ jobs:
 
       - name: Write to file
         run: echo ${{ steps.xml2json.outputs.output }} > _data/read.json
+        shell: sh
 
       - name: remove xml file
         run: rm _data/read.xml
