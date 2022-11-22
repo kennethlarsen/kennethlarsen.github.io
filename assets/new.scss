@@ -2,7 +2,7 @@
 ---
 
 :root {
-  --backgroundColor: #fdfdfd;
+  --backgroundColor: #f8f8f8;
   --textColor: #303030;
   --secondaryTextColor: #404040;
   --mutedTextColor: #707070;
@@ -19,25 +19,6 @@
   --photoBackground: #f4f4f4;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --backgroundColor: #151615;
-    --textColor: #dbdfdf;
-    --secondaryTextColor: #cfd5d5;
-    --mutedTextColor: #b4b6b8;
-    --subtleBackgroundColor: #3a3b3b;
-    --heartedBackgroundColor: #652222;
-    --selectionBackgroundColor: #19446b;
-    --linkColor: #6eb8ff;
-    --borderColor: #414141;
-    --hrColor: #888;
-    --activeColor: #74d274;
-    --langBackgroundColor: #2c2c2c;
-    --langShadowColor: #0b0c0b33;
-    --logoColor: #555555;
-    --photoBackground: #1a1a1a;
-  }
-}
 
 body {
   background: var(--backgroundColor);
@@ -162,12 +143,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.hr {
-  border: 0;
-  border-left: .7rem solid var(--textColor);
-  height: .7rem;
-  margin: 3rem 0;
-}
 
 .notes {
   list-style: none;
@@ -530,6 +505,8 @@ figcaption {
   overflow: auto;
   padding: 10px;
   margin: -10px;
+  padding-bottom: 2em;
+
 }
 
 open-stories {

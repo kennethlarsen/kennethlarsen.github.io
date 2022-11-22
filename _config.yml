@@ -1,8 +1,8 @@
-title:            Mu-An Chiou
-description:      Mu-An Chiou's home page on the World Wide Web.
-url:              https://muan.co
+title:            Kenneth Larsen
+description:      Kenneth Larsen's website.
+url:              https://kennethlarsen.org
 permalink:        /posts/:title
-timezone:         Asia/Taipei
+timezone:         Europe/Copenhagen
 kramdown:
   hard_wrap: true
 sass:
@@ -14,11 +14,11 @@ collections:
   pages:
     output: true
 i18n:
-  Travel: 旅行
-  Animals: 動物
+  Travel: Rejse
+  Animals: Dyr
   Taiwan: 台灣
-  Books: 圖書
-  Cook: 廚房
+  Books: Bøger
+  Cook: Madlavning
   Plants: 植物
   24h: 今天
   Mails: 郵件
