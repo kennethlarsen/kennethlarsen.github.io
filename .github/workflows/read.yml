@@ -1,0 +1,23 @@
+name: "Sync read later"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Copy file
+        run: output=$(curl -L --fail https://arena-rss.vercel.app/feed/to-read-tqk7vh7dev0) && echo $output > _data/read.json
+
+      - name: Commit and push
+        run: |
+          git config --global user.email "bot@kennethlarsen.org"
+          git config --global user.name "kennethlarsen [bot]"
+          git add .
+          git commit -m "Update read later" || echo "Nothing to commit"
+          git push origin HEAD:main
