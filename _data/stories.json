@@ -1,3 +1,20 @@
 [
- 
+  {
+    "uploaded": "2022-11-22T11:52:46.060Z",
+    "id": "e2ca2438-dc03-4e58-d41c-e19cc1a21c00",
+    "filename": "IMG_4657.jpeg",
+    "meta": {
+      "caption": "Sunset in our garden ",
+      "alt": "Sunset in our garden ",
+      "tags": [
+        "Highlight",
+        "Life",
+        "Home"
+      ]
+    },
+    "requireSignedURLs": false,
+    "variants": [
+      "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/e2ca2438-dc03-4e58-d41c-e19cc1a21c00/public"
+    ]
+  }
 ]
