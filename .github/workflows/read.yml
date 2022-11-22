@@ -11,16 +11,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Copy file
+        run: output=$(curl -L --fail https://arena-rss.vercel.app/feed/to-read-tqk7vh7dev0) && echo $output > _data/read.xml
+
       - name: Convert xml to JSON
         uses: fabasoad/data-format-converter-action@v0.1.1
         id: xml2json
         with:
-          input: output=$(curl -L --fail https://arena-rss.vercel.app/feed/to-read-tqk7vh7dev0)
+          input: '_data/read.xml'
           from: 'xml'
           to: 'json'
-
       - name: Write to file
         run: echo ${{ steps.xml2json.outputs.output }} > _data/read.json
+
+      - name: remove xml file
+        run: rm _data/read.xml
 
 
       - name: Commit and push
