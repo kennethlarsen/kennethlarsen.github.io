@@ -19,8 +19,8 @@ permalink: /stories.xml
         <title>{{ story.meta.caption | xml_escape }}</title>
         <description>
           {% capture content %}
-            <a href="https://photos.muan.dev/cdn-cgi/imagedelivery/-wp_VgtWlgmh1JURQ8t1mg/{{ story.id }}/public">
-              <img src="https://photos.muan.dev/cdn-cgi/imagedelivery/-wp_VgtWlgmh1JURQ8t1mg/{{ story.id }}/public" width="100%" alt="{{ story.meta.alt }}"/>
+            <a href="https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/{{ story.id }}/public">
+              <img src="https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/{{ story.id }}/public" width="100%" alt="{{ story.meta.alt }}"/>
             </a>
           {% endcapture %}
           {{ content | xml_escape }}
