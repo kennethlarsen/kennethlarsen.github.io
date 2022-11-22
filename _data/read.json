@@ -1,1 +1,250 @@
-test
+{
+  "rss": {
+    "+xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "+xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+    "+xmlns:atom": "http://www.w3.org/2005/Atom",
+    "+version": "2.0",
+    "channel": {
+      "title": "Are.na / To read",
+      "description": "When read it will be moved to https://www.are.na/kenneth-larsen/read-q5omudt37z4",
+      "link": [
+        "https://www.are.na/kenneth-larsen/to-read-tqk7vh7dev0",
+        {
+          "+href": "https://arena-channel-71oh7kam0-garry.vercel.app/feed/to-read-tqk7vh7dev0",
+          "+rel": "self",
+          "+type": "application/rss+xml"
+        }
+      ],
+      "image": {
+        "url": "https://arena-channel-71oh7kam0-garry.vercel.app/assets/icon.png",
+        "title": "Are.na / To read",
+        "link": "https://www.are.na/kenneth-larsen/to-read-tqk7vh7dev0"
+      },
+      "generator": "Are.na Channel to RSS",
+      "lastBuildDate": "Tue, 22 Nov 2022 13:31:17 GMT",
+      "language": "en",
+      "item": [
+        {
+          "title": "Stephen Diehl: Crypto is the commoditisation of populist anger, gambling and crime",
+          "description": "<a href=\"https://www.ft.com/content/028e0109-6e87-42ed-8480-996cf645ce04\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTA4MDI1OC9vcmlnaW5hbF9iMjYxMDc1NGU0NDgzMWM1OGEzM2QwZDcyMzc0N2M5Yy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/19080258",
+          "guid": {
+            "+content": "https://www.are.na/block/19080258",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Mon, 21 Nov 2022 10:53:24 GMT"
+        },
+        {
+          "title": "Is dev compensation bimodal?",
+          "description": "<a href=\"https://danluu.com/bimodal-compensation/?utm_source=substack&utm_medium=email\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTA0NjMyMS9vcmlnaW5hbF81NGRmZjYxNzQ3MDJlM2ZkMTUyZTQxMDU4Njg0YzY5YS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/19046321",
+          "guid": {
+            "+content": "https://www.are.na/block/19046321",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Fri, 18 Nov 2022 07:15:54 GMT"
+        },
+        {
+          "title": "Finding the Mother Tree – with Suzanne Simard",
+          "description": "<a href=\"https://emergencemagazine.org/interview/finding-the-mother-tree/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODk5NDAwMS9vcmlnaW5hbF82NTQ3MTlmODJhYzY5Y2YzMWY3OTRjYWM5N2NjMTg0MS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/18994001",
+          "guid": {
+            "+content": "https://www.are.na/block/18994001",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Tue, 15 Nov 2022 13:31:29 GMT"
+        },
+        {
+          "title": "Marco D’Eramo, Scientific Capitalism — Sidecar",
+          "description": "<a href=\"https://newleftreview.org/sidecar/posts/scientific-capitalism\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODk4MTgyNS9vcmlnaW5hbF8zODYxYjFjYTNjZWY1MWYzY2Q3MzA0ZTNkOTgyMWNiZi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/18981825",
+          "guid": {
+            "+content": "https://www.are.na/block/18981825",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Mon, 14 Nov 2022 19:40:36 GMT"
+        },
+        {
+          "title": "Potluck: Dynamic documents as personal software",
+          "description": "<a href=\"https://www.inkandswitch.com/potluck/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODc4OTU0MC9vcmlnaW5hbF9jNTcxODUwNzdjYTFjZmMwMzVhNTA5MWZjNjVlMmZiYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/18789540",
+          "guid": {
+            "+content": "https://www.are.na/block/18789540",
+            "+isPermaLink": "false"
+          },
+          "creator": "agnes cameron",
+          "pubDate": "Wed, 02 Nov 2022 11:16:39 GMT"
+        },
+        {
+          "title": "Stop Asking Neurodivergent People to Change the Way They Communicate",
+          "description": "<a href=\"https://hbr.org/2022/10/stop-asking-neurodivergent-people-to-change-the-way-they-communicate?utm_campaign=hbr&utm_medium=social&utm_source=linkedin\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODg0NTU1OS9vcmlnaW5hbF9lYzY1MWM0MDgwZTI2OWRmNTBiNjNmZWE1NTQxYTdiYi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/18845559",
+          "guid": {
+            "+content": "https://www.are.na/block/18845559",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Sun, 06 Nov 2022 06:15:57 GMT"
+        },
+        {
+          "title": "Bored and lonely? Blame your phone.",
+          "description": "<a href=\"https://www.vox.com/recode/2019/5/2/18510958/social-media-addiction-boredom-loneliness-society-technology-smart-phones\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI0MjA3NzEyL29yaWdpbmFsXzVjMDViMzFjODQ3YmQyODFjMTg0OTM2MGM1Yzk5NzQyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/4207712",
+          "guid": {
+            "+content": "https://www.are.na/block/4207712",
+            "+isPermaLink": "false"
+          },
+          "creator": "Alice Clearwater",
+          "pubDate": "Sat, 04 May 2019 16:11:18 GMT"
+        },
+        {
+          "title": "How Platformer is changing in year three",
+          "description": "<a href=\"https://www.platformer.news/p/how-platformer-is-changing-in-year\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxODEzMDg3MS9vcmlnaW5hbF82MzQ2MmJlMTBlNDMzZmVhNmZkOWQ3ZjEyM2E5ZDk4Ny5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/18130871",
+          "guid": {
+            "+content": "https://www.are.na/block/18130871",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Tue, 20 Sep 2022 10:04:31 GMT"
+        },
+        {
+          "title": "The Shape of Design",
+          "description": "<a href=\"https://shapeofdesignbook.com/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNTg3NzQ1NC9vcmlnaW5hbF82MGRmM2VjNzRkYWMwYTgwMjkxNjRkYjk0ZmU1NDVkNi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/15877454",
+          "guid": {
+            "+content": "https://www.are.na/block/15877454",
+            "+isPermaLink": "false"
+          },
+          "creator": "Nico Chilla",
+          "pubDate": "Sat, 02 Apr 2022 14:40:59 GMT"
+        },
+        {
+          "title": "The Internet Is Rotting",
+          "description": "<a href=\"https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMjkxMzU3My9vcmlnaW5hbF9kMjc1NzE2ODJhMzRlNGMxODRjNTk0ODljMzE1YmE4NS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/12913573",
+          "guid": {
+            "+content": "https://www.are.na/block/12913573",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kristian Bjørnard",
+          "pubDate": "Sun, 22 Aug 2021 03:42:42 GMT"
+        },
+        {
+          "title": "To Read",
+          "description": "<a href=\"https://www.are.na/bre-b/to-read-l6a85hnbyze\" target=\"_blank\">https://www.are.na/bre-b/to-read-l6a85hnbyze</a>",
+          "link": "https://www.are.na/block/482021",
+          "guid": {
+            "+content": "https://www.are.na/block/482021",
+            "+isPermaLink": "false"
+          },
+          "creator": "Bre B",
+          "pubDate": "Sat, 28 Sep 2019 13:14:03 GMT"
+        },
+        {
+          "title": "Flora, Fauna and Folk Tales – A Permaculture Network",
+          "description": "<a href=\"https://schloss-post.com/flora-fauna-and-folk-tales/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI5NTgxNjU2L29yaWdpbmFsX2VmZjlhMjA3MjY0M2RmOGVmNzVhNGRlYThkMDhjODM0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/9581656",
+          "guid": {
+            "+content": "https://www.are.na/block/9581656",
+            "+isPermaLink": "false"
+          },
+          "creator": "Kristian Bjørnard",
+          "pubDate": "Fri, 20 Nov 2020 03:38:56 GMT"
+        },
+        {
+          "title": "The stark loneliness of digital togetherness",
+          "description": "<a href=\"https://www.vox.com/the-highlight/2020/5/26/21256190/zoom-facetime-skype-coronavirus-loneliness\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI3NDU1MDY5L29yaWdpbmFsXzE1Mzg0YTQyOTVmMjQ5ZWNhNzhiNGU2MjNiNWZhN2EzLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/7455069",
+          "guid": {
+            "+content": "https://www.are.na/block/7455069",
+            "+isPermaLink": "false"
+          },
+          "creator": "Bruno Szenk",
+          "pubDate": "Wed, 27 May 2020 21:35:58 GMT"
+        },
+        {
+          "title": "Other Internet",
+          "description": "<a href=\"https://otherinter.net/research/lore/how-to-read-the-internet/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNjkxMTAzMi9vcmlnaW5hbF85OTQ1ZTA4Njg0OGFiZThkZTNiZGRhYmFhNzQwMmZlMC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/16911032",
+          "guid": {
+            "+content": "https://www.are.na/block/16911032",
+            "+isPermaLink": "false"
+          },
+          "creator": "Oskar Radon",
+          "pubDate": "Sat, 18 Jun 2022 02:09:39 GMT"
+        },
+        {
+          "title": "The Deliberate Awfulness of Social Media",
+          "description": "<a href=\"https://www.newyorker.com/books/under-review/the-deliberate-awfulness-of-social-media\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyNzM4MTc0L29yaWdpbmFsX2UwODE2OTBiNzdkOWE1YTVhYWFkZTA2OWZkMDc5NDJiLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjoxMjAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjkwfSwianBlZyI6eyJxdWFsaXR5Ijo5MH0sInJvdGF0ZSI6bnVsbH19?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/2738174",
+          "guid": {
+            "+content": "https://www.are.na/block/2738174",
+            "+isPermaLink": "false"
+          },
+          "creator": "Morgan Sutherland",
+          "pubDate": "Thu, 20 Sep 2018 06:41:47 GMT"
+        },
+        {
+          "title": "Social Media Is Not Self-Expression",
+          "description": "<a href=\"https://thenewinquiry.com/blog/social-media-is-not-self-expression/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNzE2NzYwL29yaWdpbmFsX2U4NmM0ZjU2NjIwNWRiZWJhYjljMmY4ZmQ3MTNhYTI3IiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6OTB9LCJqcGVnIjp7InF1YWxpdHkiOjkwfSwicm90YXRlIjpudWxsfX0=?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/1716760",
+          "guid": {
+            "+content": "https://www.are.na/block/1716760",
+            "+isPermaLink": "false"
+          },
+          "creator": "Niell Gorman",
+          "pubDate": "Thu, 08 Feb 2018 02:06:22 GMT"
+        },
+        {
+          "title": "How TikTok Holds Our Attention",
+          "description": "<a href=\"https://www.newyorker.com/magazine/2019/09/30/how-tiktok-holds-our-attention\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMjg5ODYwNi9vcmlnaW5hbF9kMzJkYWQzOTBiMTJlYmEyYTlmYjkwOWI2NDIyYWQzZS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/12898606",
+          "guid": {
+            "+content": "https://www.are.na/block/12898606",
+            "+isPermaLink": "false"
+          },
+          "creator": "liyv ❦",
+          "pubDate": "Fri, 20 Aug 2021 03:07:42 GMT"
+        },
+        {
+          "title": "Data Brokers Are a Threat to Democracy",
+          "description": "<a href=\"https://www.wired.com/story/opinion-data-brokers-are-a-threat-to-democracy/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMTY0NTAyMi9vcmlnaW5hbF80M2JkYjE0ZDkxM2M1NGY2NWI0MGM3ZTk3ZjdlNzM5Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/11645022",
+          "guid": {
+            "+content": "https://www.are.na/block/11645022",
+            "+isPermaLink": "false"
+          },
+          "creator": "Brent Bailey",
+          "pubDate": "Mon, 19 Apr 2021 16:56:18 GMT"
+        },
+        {
+          "title": "Have Algorithms Destroyed Personal Taste?",
+          "description": "<a href=\"https://www.racked.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDU1MjYxL29yaWdpbmFsX2VhZDcwNjQ3NDQwNmYyZGUyZTc3ZDRhYTk0ZjJlNDhlIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6OTB9LCJqcGVnIjp7InF1YWxpdHkiOjkwfSwicm90YXRlIjpudWxsfX0=?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/2055261",
+          "guid": {
+            "+content": "https://www.are.na/block/2055261",
+            "+isPermaLink": "false"
+          },
+          "creator": "Charles Broskoski",
+          "pubDate": "Tue, 17 Apr 2018 17:02:45 GMT"
+        },
+        {
+          "title": "The Age of Algorithmic Anxiety | The New Yorker",
+          "description": "<a href=\"https://www.newyorker.com/culture/infinite-scroll/the-age-of-algorithmic-anxiety\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNzM3NDUzMi9vcmlnaW5hbF9kYjI2N2Y1ODc3YjA2NmE0N2FjNzE5ZjUyMmU3OWE4Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/17374532",
+          "guid": {
+            "+content": "https://www.are.na/block/17374532",
+            "+isPermaLink": "false"
+          },
+          "creator": "liyv ❦",
+          "pubDate": "Wed, 27 Jul 2022 15:46:58 GMT"
+        }
+      ]
+    }
+  }
+}
