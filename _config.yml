@@ -1,6 +1,6 @@
 title:            Kenneth Larsen
 description:      Kenneth Larsen's website.
-url:              https://kennethlarsen.org
+url:              https://kennethlarsen.github.io/hjemmesiden
 permalink:        /posts/:title
 timezone:         Europe/Copenhagen
 kramdown:
