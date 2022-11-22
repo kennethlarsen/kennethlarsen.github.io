@@ -4,7 +4,7 @@ permalink: /notes.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@muan's notes</title>
+    <title>@kennethlarsen's notes</title>
     <description>Micro posts.</description>
     <lastBuildDate>{{ site.data.notes.first.date | date_to_rfc822 }}</lastBuildDate>
     <link>{{ site.url }}/notes.xml</link>
@@ -18,7 +18,7 @@ permalink: /notes.xml
         <description>{{ note.content | markdownify | xml_escape }}</description>
         <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
         <link>https://muan.co/notes#t{{ note.date | date: "%Y%m%d%I%M" }}</link>
-        <guid isPermaLink="true">https://muan.co/notes#t{{ note.date | date: "%Y%m%d%I%M" }}</guid>
+        <guid isPermaLink="true">https://kennethlarsen.org/notes#t{{ note.date | date: "%Y%m%d%I%M" }}</guid>
       </item>
     {% endfor %}
   </channel>

@@ -6,7 +6,7 @@ comment: For micro.blog only.
 {% capture srcbase %}src="{{site.url}}/{% endcapture %}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title }} notes</title>
+    <title>@kennethlarsen's notes</title>
     <description>notes</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/notes.rss" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@ comment: For micro.blog only.
         <description>{{ note.content | markdownify | xml_escape }}</description>
         <pubDate>{{ note.date | date_to_rfc822 }}</pubDate>
         <link>https://muan.co/notes#date-{{ note.date | date: "%Y-%m-%d" }}{{ note.slug }}</link>
-        <guid isPermaLink="true">https://muan.co/notes#date-{{ note.date | date: "%Y-%m-%d" }}{{ note.slug }}</guid>
+        <guid isPermaLink="true">https://kennethlarsen.org/notes#date-{{ note.date | date: "%Y-%m-%d" }}{{ note.slug }}</guid>
       </item>
     {% endfor %}
   </channel>

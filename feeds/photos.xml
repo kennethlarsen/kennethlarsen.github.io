@@ -5,7 +5,7 @@ permalink: /photos.xml
 {% capture srcbase %}src="{{site.url}}/{% endcapture %}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>@muan's photos</title>
+    <title>@kennethlarsen's photos</title>
     <description>Photos.</description>
     {% assign photos = site.data.photos | slice: 0, 10 %}
     <lastBuildDate>{{ photos.first.createdAt | date_to_rfc822 }}</lastBuildDate>
