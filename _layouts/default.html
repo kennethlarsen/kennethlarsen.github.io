@@ -7,9 +7,9 @@
     <link rel="icon" href="/assets/fav.svg" type="image/svg+xml" sizes="24x24">
     <!--link rel="icon" href="/assets/fav.png" type="image/png" sizes="96x96"-->
     {% if page.collection == "posts" %}
-      <link href="{{ root_url }}/assets/syntax.css" rel="stylesheet" type="text/css">
+      <link href="{{ site.url }}{{ site.baseurl }}/assets/syntax.css" rel="stylesheet" type="text/css">
     {% endif %}
-    <link href="{{ root_url }}/assets/new.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/new.css" rel="stylesheet" type="text/css">
     {% if page.collection == "posts" or page.collection == "pages" %}
       <meta content="{{ site.url }}{{ page.url }}" property="og:url">
       <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" name="description">
