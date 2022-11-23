@@ -52,5 +52,23 @@
     "variants": [
       "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/9c05c4b1-d399-4e48-2787-8ea5b8257300/public"
     ]
+  },
+  {
+    "uploaded": "2022-11-23T10:58:30.585Z",
+    "id": "0a1a9ae0-2a19-4402-9b3b-e738e0db4800",
+    "filename": "IMG_4821.jpeg",
+    "meta": {
+      "caption": "View from my home office",
+      "alt": "Open window, garden with trees and a view of the ocean ",
+      "tags": [
+        "Highlight",
+        "Life",
+        "Home"
+      ]
+    },
+    "requireSignedURLs": false,
+    "variants": [
+      "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/0a1a9ae0-2a19-4402-9b3b-e738e0db4800/public"
+    ]
   }
 ]
