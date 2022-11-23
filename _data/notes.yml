@@ -1,3 +1,14 @@
+- date: 2022/11/23 09:31
+  content: |
+    Read later apps. I have used them since they came out and there is one thing that as annoyed me ever since: I, usually, love the branding of newspapers and magazines that I pay for, but often I want to consume them in a distraction-free-read-later environment.
+
+    The issue is that read later apps strip all branding from the pieces. Reading several articles in the read later app creates a very dull experience. I hope we can move towards read later apps taking the specific branding into context, but still serving it in a distraction-free setting.
+
+    One way this could work would be to have the read later scraper detect branding colors and slightly apply them to the reading views. This would give me a sense of oh now I’m reading London Review of Books or yes, this is Financial Times. Having this being automated, it most likely would create awkward results.
+
+    My dream is to have a standard notated on the page for read later products to use. It could be information stored on the HTML, CSS or somewhere else that defined the branding values of that particular publisher, which the apps then could consume.
+
+    It’s a small issue to have, I know. But it does make me not want to use the apps as much as I wanted to.
 - date: 2022/11/22 13:40
   content: |
     Twitter has been my home for the last 10+ years. Now it's time to make this my home. It's early, but you can now read notes from me and see my stories.
