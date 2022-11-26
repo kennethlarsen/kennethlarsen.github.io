@@ -70,5 +70,23 @@
     "variants": [
       "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/0a1a9ae0-2a19-4402-9b3b-e738e0db4800/public"
     ]
+  },
+  {
+    "uploaded": "2022-11-26T07:05:54.104Z",
+    "id": "45fcc4b6-3592-405c-4cdf-a76560b8e300",
+    "filename": "IMG_4849.jpeg",
+    "meta": {
+      "caption": "Bedroom view",
+      "alt": "Foggy garden view with a greenhouse at the end ",
+      "tags": [
+        "Highlight",
+        "Life",
+        "Home"
+      ]
+    },
+    "requireSignedURLs": false,
+    "variants": [
+      "https://imagedelivery.net/_rZoQqLgJk78VhiWIYYBsw/45fcc4b6-3592-405c-4cdf-a76560b8e300/public"
+    ]
   }
 ]
