@@ -1,36 +1,48 @@
 {
+  "+p_xml": "version=\"1.0\" encoding=\"UTF-8\"",
   "rss": {
-    "+xmlns:dc": "http://purl.org/dc/elements/1.1/",
-    "+xmlns:content": "http://purl.org/rss/1.0/modules/content/",
-    "+xmlns:atom": "http://www.w3.org/2005/Atom",
-    "+version": "2.0",
+    "+@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "+@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+    "+@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "+@version": "2.0",
     "channel": {
       "title": "Are.na / To read",
       "description": "When read it will be moved to https://www.are.na/kenneth-larsen/read-q5omudt37z4",
       "link": [
         "https://www.are.na/kenneth-larsen/to-read-tqk7vh7dev0",
         {
-          "+href": "https://arena-channel-71oh7kam0-garry.vercel.app/feed/to-read-tqk7vh7dev0",
-          "+rel": "self",
-          "+type": "application/rss+xml"
+          "+@href": "https://arena-channel-1rhh7igqj-garry.vercel.app/feed/to-read-tqk7vh7dev0",
+          "+@rel": "self",
+          "+@type": "application/rss+xml"
         }
       ],
       "image": {
-        "url": "https://arena-channel-71oh7kam0-garry.vercel.app/assets/icon.png",
+        "url": "https://arena-channel-1rhh7igqj-garry.vercel.app/assets/icon.png",
         "title": "Are.na / To read",
         "link": "https://www.are.na/kenneth-larsen/to-read-tqk7vh7dev0"
       },
       "generator": "Are.na Channel to RSS",
-      "lastBuildDate": "Tue, 22 Nov 2022 17:51:55 GMT",
+      "lastBuildDate": "Thu, 08 Dec 2022 10:16:17 GMT",
       "language": "en",
       "item": [
+        {
+          "title": "Taiwan’s Founding Mothers?: Untold Herstory - No Man Is An Island",
+          "description": "<a href=\"https://nomanisanis.land/untold-herstory-review/\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTMyNTM0OC9vcmlnaW5hbF9lZjAxZDg4NzhmYzFkMDY0MjI4N2QxNjY4MGRmOTI1Ni5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
+          "link": "https://www.are.na/block/19325348",
+          "guid": {
+            "+content": "https://www.are.na/block/19325348",
+            "+@isPermaLink": "false"
+          },
+          "creator": "Kenneth Larsen",
+          "pubDate": "Wed, 07 Dec 2022 20:39:01 GMT"
+        },
         {
           "title": "ZEIT ONLINE | Lesen Sie zeit.de mit Werbung oder im PUR-Abo. Sie haben die Wahl.",
           "description": "<a href=\"https://www.zeit.de/wirtschaft/2022-11/twitter-management-elon-musk-kapitalismus\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxOTEwNzM3MC9vcmlnaW5hbF82OWYzOTk1MDY4NDhkZjY1NWVjMDkyZjk2YzhkYjdmMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0\"></img></a>",
           "link": "https://www.are.na/block/19107370",
           "guid": {
             "+content": "https://www.are.na/block/19107370",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Tue, 22 Nov 2022 17:48:46 GMT"
@@ -41,7 +53,7 @@
           "link": "https://www.are.na/block/19080258",
           "guid": {
             "+content": "https://www.are.na/block/19080258",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Mon, 21 Nov 2022 10:53:24 GMT"
@@ -52,7 +64,7 @@
           "link": "https://www.are.na/block/19046321",
           "guid": {
             "+content": "https://www.are.na/block/19046321",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Fri, 18 Nov 2022 07:15:54 GMT"
@@ -63,7 +75,7 @@
           "link": "https://www.are.na/block/18994001",
           "guid": {
             "+content": "https://www.are.na/block/18994001",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Tue, 15 Nov 2022 13:31:29 GMT"
@@ -74,7 +86,7 @@
           "link": "https://www.are.na/block/18981825",
           "guid": {
             "+content": "https://www.are.na/block/18981825",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Mon, 14 Nov 2022 19:40:36 GMT"
@@ -85,7 +97,7 @@
           "link": "https://www.are.na/block/18789540",
           "guid": {
             "+content": "https://www.are.na/block/18789540",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "agnes cameron",
           "pubDate": "Wed, 02 Nov 2022 11:16:39 GMT"
@@ -96,7 +108,7 @@
           "link": "https://www.are.na/block/18845559",
           "guid": {
             "+content": "https://www.are.na/block/18845559",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Sun, 06 Nov 2022 06:15:57 GMT"
@@ -107,7 +119,7 @@
           "link": "https://www.are.na/block/4207712",
           "guid": {
             "+content": "https://www.are.na/block/4207712",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Alice Clearwater",
           "pubDate": "Sat, 04 May 2019 16:11:18 GMT"
@@ -118,7 +130,7 @@
           "link": "https://www.are.na/block/18130871",
           "guid": {
             "+content": "https://www.are.na/block/18130871",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kenneth Larsen",
           "pubDate": "Tue, 20 Sep 2022 10:04:31 GMT"
@@ -129,7 +141,7 @@
           "link": "https://www.are.na/block/15877454",
           "guid": {
             "+content": "https://www.are.na/block/15877454",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Nico Chilla",
           "pubDate": "Sat, 02 Apr 2022 14:40:59 GMT"
@@ -140,7 +152,7 @@
           "link": "https://www.are.na/block/12913573",
           "guid": {
             "+content": "https://www.are.na/block/12913573",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kristian Bjørnard",
           "pubDate": "Sun, 22 Aug 2021 03:42:42 GMT"
@@ -151,7 +163,7 @@
           "link": "https://www.are.na/block/482021",
           "guid": {
             "+content": "https://www.are.na/block/482021",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Bre B",
           "pubDate": "Sat, 28 Sep 2019 13:14:03 GMT"
@@ -162,7 +174,7 @@
           "link": "https://www.are.na/block/9581656",
           "guid": {
             "+content": "https://www.are.na/block/9581656",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Kristian Bjørnard",
           "pubDate": "Fri, 20 Nov 2020 03:38:56 GMT"
@@ -173,7 +185,7 @@
           "link": "https://www.are.na/block/7455069",
           "guid": {
             "+content": "https://www.are.na/block/7455069",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Bruno Szenk",
           "pubDate": "Wed, 27 May 2020 21:35:58 GMT"
@@ -184,7 +196,7 @@
           "link": "https://www.are.na/block/16911032",
           "guid": {
             "+content": "https://www.are.na/block/16911032",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Oskar Radon",
           "pubDate": "Sat, 18 Jun 2022 02:09:39 GMT"
@@ -195,7 +207,7 @@
           "link": "https://www.are.na/block/2738174",
           "guid": {
             "+content": "https://www.are.na/block/2738174",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Morgan Sutherland",
           "pubDate": "Thu, 20 Sep 2018 06:41:47 GMT"
@@ -206,7 +218,7 @@
           "link": "https://www.are.na/block/1716760",
           "guid": {
             "+content": "https://www.are.na/block/1716760",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Niell Gorman",
           "pubDate": "Thu, 08 Feb 2018 02:06:22 GMT"
@@ -217,7 +229,7 @@
           "link": "https://www.are.na/block/12898606",
           "guid": {
             "+content": "https://www.are.na/block/12898606",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "liyv ❦",
           "pubDate": "Fri, 20 Aug 2021 03:07:42 GMT"
@@ -228,21 +240,10 @@
           "link": "https://www.are.na/block/11645022",
           "guid": {
             "+content": "https://www.are.na/block/11645022",
-            "+isPermaLink": "false"
+            "+@isPermaLink": "false"
           },
           "creator": "Brent Bailey",
           "pubDate": "Mon, 19 Apr 2021 16:56:18 GMT"
-        },
-        {
-          "title": "Have Algorithms Destroyed Personal Taste?",
-          "description": "<a href=\"https://www.racked.com/2018/4/17/17219166/fashion-style-algorithm-amazon-echo-look\" target=\"_blank\"><img src=\"https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDU1MjYxL29yaWdpbmFsX2VhZDcwNjQ3NDQwNmYyZGUyZTc3ZDRhYTk0ZjJlNDhlIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjEyMDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6OTB9LCJqcGVnIjp7InF1YWxpdHkiOjkwfSwicm90YXRlIjpudWxsfX0=?bc=0\"></img></a>",
-          "link": "https://www.are.na/block/2055261",
-          "guid": {
-            "+content": "https://www.are.na/block/2055261",
-            "+isPermaLink": "false"
-          },
-          "creator": "Charles Broskoski",
-          "pubDate": "Tue, 17 Apr 2018 17:02:45 GMT"
         }
       ]
     }
